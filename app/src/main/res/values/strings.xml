@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Supreme Lube</string>
+    
+    
+    <string-array name="make">
+        <item>Make</item>
+        <item>Chyrsler</item>
+        <item>Chevrolet</item>
+        <item>Cadillac</item>
+        <item>Dodge</item>
+        <item>Ford</item>
+        <item>Hundai</item>
+        <item>Jeep</item>
+        <item>Kia</item>
+        <item>Lincoln</item>
+        <item>Nissan</item>
+        <item>Volkswagen</item>
+    </string-array>
+
+
+    <string-array name="chryslerModel">
+        <item>300</item>
+        <item>200</item>
+        <item>Pacifica</item>
+    </string-array>
+
+
+
+    
+</resources>
