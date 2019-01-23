@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Supreme Lube</string>
-    
-    
+
+
     <string-array name="make">
         <item>Make</item>
         <item>Chyrsler</item>
@@ -9,7 +9,8 @@
         <item>Cadillac</item>
         <item>Dodge</item>
         <item>Ford</item>
-        <item>Hundai</item>
+        <item>GMC</item>
+        <item>Hyundai</item>
         <item>Jeep</item>
         <item>Kia</item>
         <item>Lincoln</item>
@@ -19,12 +20,124 @@
 
 
     <string-array name="chryslerModel">
+        <item>Model</item>
         <item>300</item>
         <item>200</item>
         <item>Pacifica</item>
     </string-array>
 
+    <string-array name="chevroletModel">
+        <item>Model</item>
+        <item>Cruze</item>
+        <item>Equinox</item>
+        <item>Impala</item>
+        <item>Malibu</item>
+        <item>Sonic</item>
+        <item>Spark</item>
+        <item>Suburban</item>
+        <item>Trax</item>
+    </string-array>
 
+    <string-array name="cadillacModel">
+        <item>Model</item>
+        <item>ATS</item>
+        <item>CTS</item>
+        <item>XTS</item>
+    </string-array>
 
+    <string-array name="dodgeModel">
+        <item>Model</item>
+        <item>Challenger</item>
+        <item>Charger</item>
+        <item>Durango</item>
+        <item>Grand Caravan</item>
+        <item>Journey</item>
+    </string-array>
+
+    <string-array name="fordModel">
+        <item>Model</item>
+        <item>Edge</item>
+        <item>Escape</item>
+        <item>Expedition</item>
+        <item>Explorer</item>
+        <item>Fiesta</item>
+        <item>Flex</item>
+        <item>Focus</item>
+        <item>Fusion</item>
+        <item>Mustang</item>
+        <item>Taurus</item>
+    </string-array>
+
+    <string-array name="gmcModel">
+        <item>Model</item>
+        <item>Acadia</item>
+        <item>Terrain</item>
+        <item>Yukon</item>
+    </string-array>
+
+    <string-array name="hyundaiModel">
+        <item>Model</item>
+        <item>Accent</item>
+        <item>Elantra</item>
+        <item>Kona</item>
+        <item>Santa Fe</item>
+        <item>Sonata</item>
+        <item>Tucson</item>
+        <item>Veloster</item>
+    </string-array>
+
+    <string-array name="jeepModel">
+        <item>Model</item>
+        <item>Cherokee</item>
+        <item>Compass</item>
+        <item>Grand Cherokee</item>
+        <item>Renegade</item>
+        <item>Wrangler</item>
+    </string-array>
     
+    <string-array name="kiaModel">
+        <item>Model</item>
+        <item>Forte</item>
+        <item>Optima</item>
+        <item>Rio</item>
+        <item>Sedona</item>
+        <item>Sorento</item>
+        <item>Soul</item>
+        <item>Sorento</item>
+        <item>Sportage</item>
+    </string-array>
+
+    <string-array name="lincolnModel">
+        <item>Model</item>
+        <item>Continental</item>
+        <item>MKC</item>
+        <item>MKT</item>
+        <item>MKX</item>
+        <item>MKZ</item>
+        <item>Navigator</item>
+    </string-array>
+
+    <string-array name="nissanModel">
+        <item>Model</item>
+        <item>Altima</item>
+        <item>Marano</item>
+        <item>Maxima</item>
+        <item>Micra</item>
+        <item>Pathfinder</item>
+        <item>Rogue</item>
+        <item>Sentra</item>
+        <item>Versa Note</item>
+        <item>Qashqai</item>
+    </string-array>
+    
+    <string-array name="volkswagenModel">
+        <item>Model</item>
+        <item>Atlas</item>
+        <item>Beetle</item>
+        <item>Golf</item>
+        <item>Jetta</item>
+        <item>Passat</item>
+        <item>Tiguan</item>
+    </string-array>
+
 </resources>
