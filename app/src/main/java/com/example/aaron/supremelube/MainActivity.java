@@ -9,7 +9,7 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
-    private EditText password;
+    private EditText passwordEt;
 
 
     @Override
@@ -17,12 +17,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        password = (EditText)findViewById(R.id.etPassword);
-        Button login = (Button) findViewById(R.id.btnLogin);
+        passwordEt = (EditText)findViewById(R.id.passwordEt);
+        Button login = (Button) findViewById(R.id.loginBtn);
 
         View.OnClickListener clickListener = new View.OnClickListener() {
             public void onClick(View v) {
-                validate(password.getText().toString());
+                validate(passwordEt.getText().toString());
             }
         };
         login.setOnClickListener(clickListener);
